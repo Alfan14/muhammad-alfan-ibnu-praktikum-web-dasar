@@ -1,2 +1,2 @@
-# Myalfan
-Project tugas hosting praktikum web dasar
+# Praktikum Web Dasar
+Project tugas praktikum web dasar
